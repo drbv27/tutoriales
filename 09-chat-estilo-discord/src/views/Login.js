@@ -16,7 +16,7 @@ function Login() {
       <div className="login__logo">
         <img src="https://picsum.photos/420" alt="" />
       </div>
-      <Button onClick={logInConGoogle}>Acceder con Google</Button>
+      <Button onClick={logInConGoogle}>Accede con Google</Button>
     </div>
   );
 }
